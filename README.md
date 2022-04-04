@@ -4,5 +4,3 @@
 - 🤔 I’m looking for help with Node.je and SQL
 - 💬 Ask me about Python and JavaScript
 - 📫 How to reach me: @mateuso.brito
-- 
--->
